@@ -1,10 +1,10 @@
 {
   "title": "Welcing",
   "titleTemplate": "| Family Website",
-  "welcomeText": "# Happy Birthday, Dad!\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Happy Birthday, Dad!\n\n",
+  "logo": "https://unsplash.com/photos/yellow-balloon-near-cake-ZZwiWs7cyv8?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+  "icon": "https://unsplash.com/photos/yellow-balloon-near-cake-ZZwiWs7cyv8?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "A family website.",
   "seoMetaImage": ""
 }
