@@ -2,8 +2,8 @@
   "title": "Welcing",
   "titleTemplate": "| Family Website",
   "welcomeText": "# Happy Birthday, Dad!\n\n",
-  "logo": "https://unsplash.com/photos/yellow-balloon-near-cake-ZZwiWs7cyv8?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
-  "icon": "https://unsplash.com/photos/yellow-balloon-near-cake-ZZwiWs7cyv8?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+  "logo": "/images/uploads/raychan-zzwiws7cyv8-unsplash.jpg",
+  "icon": "/images/uploads/raychan-zzwiws7cyv8-unsplash.jpg",
   "loadingColor": "#0b3765",
   "seoDescription": "A family website.",
   "seoMetaImage": ""
